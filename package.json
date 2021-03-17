@@ -66,6 +66,7 @@
     "jest-cli": "^23.6.0",
     "jest-express": "^1.6.0",
     "lint-staged": "^7.3.0",
-    "nodemon": "^1.17.5"
+    "nodemon": "^1.17.5",
+    "sonarqube-scanner": "^2.8.0"
   }
 }
