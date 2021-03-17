@@ -1,0 +1,6 @@
+projectKey=org.sonarqube:sonarqube-scanner
+serverUrl=http://sonar-qube-jlarios.northeurope.cloudapp.azure.com
+serverVersion=8.3.0.34182
+dashboardUrl=http://sonar-qube-jlarios.northeurope.cloudapp.azure.com/dashboard?id=org.sonarqube%3Asonarqube-scanner
+ceTaskId=AXghWBuC3XoAkrk2Qry0
+ceTaskUrl=http://sonar-qube-jlarios.northeurope.cloudapp.azure.com/api/ce/task?id=AXghWBuC3XoAkrk2Qry0
