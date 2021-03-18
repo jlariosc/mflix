@@ -1,6 +1,0 @@
-projectKey=mflix
-serverUrl=http://sonar-qube-jlarios.northeurope.cloudapp.azure.com
-serverVersion=8.3.0.34182
-dashboardUrl=http://sonar-qube-jlarios.northeurope.cloudapp.azure.com/dashboard?id=mflix
-ceTaskId=AXg_hK053XoAkrk2Qrzd
-ceTaskUrl=http://sonar-qube-jlarios.northeurope.cloudapp.azure.com/api/ce/task?id=AXg_hK053XoAkrk2Qrzd
